@@ -1,4 +1,4 @@
-### Hands-On Angular: Front-end Source Files
+### Tuts+ Course: Hands-On Angular
 #### Instructor: Rem Zolotykh
 
 Source files for the Tuts+ course: [Hands-On Angular](https://courses.tutsplus.com/courses/hands-on-angular)
